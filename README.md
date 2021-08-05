@@ -1,3 +1,3 @@
 # meuPrimeiroRepositorio
 
-- Digital House - iOS
+- Digital House - iOS Developer
